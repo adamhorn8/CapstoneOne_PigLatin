@@ -1,0 +1,11 @@
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/bin/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.deps.json
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/bin/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.runtimeconfig.json
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/bin/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.runtimeconfig.dev.json
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/bin/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.dll
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/bin/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.pdb
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/obj/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.csprojResolveAssemblyReference.cache
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/obj/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.csproj.CoreCompileInputs.cache
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/obj/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.AssemblyInfoInputs.cache
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/obj/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.AssemblyInfo.cs
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/obj/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.dll
+/Users/Adam/Projects/Capstone_One__Pig_Latin/Capstone_One__Pig_Latin/obj/Debug/netcoreapp2.0/Capstone_One__Pig_Latin.pdb
